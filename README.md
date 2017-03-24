@@ -10,9 +10,8 @@ QQGroup:175070221
 ![image](https://github.com/kongcup/ZMConfuse/raw/master/confuse.png)
 
 
-1.终端cd 到zmconfuse.sh文件 所在的文件夹内。
-2.再把你的工程文件拷贝到此文件夹内。
-3.打开zmconfuse.sh文件，把 ROOTFOLDER="shakefun" 的shakefun替换成你的工程文件名。
-4.添加排除的第三方库等。保存修改。
-5.直接把zmconfuse.sh文件，拖到终端内，ENTER。
-完成！！！
+1. 终端cd 到zmconfuse.sh文件 所在的文件夹内。
+2. 再把你的工程文件拷贝到此文件夹内。
+3. 打开zmconfuse.sh文件，把 ROOTFOLDER="shakefun" 的shakefun替换成你的工程文件名。
+4. 添加排除的第三方库等。保存修改。
+5. 直接把zmconfuse.sh文件，拖到终端内，ENTER。
